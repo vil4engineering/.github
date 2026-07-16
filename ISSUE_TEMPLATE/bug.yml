@@ -1,5 +1,5 @@
 name: Bug
-description: Something broken in a university repo or lab
+description: Something broken in an org repo or lab
 title: "fix: "
 labels: ["bug"]
 body:
@@ -7,7 +7,7 @@ body:
     id: repo
     attributes:
       label: Repository
-      placeholder: Engineering-University.github.io / pitstop-ios / regional-check
+      placeholder: univer / pitstop-ios / regional-check
     validations:
       required: true
   - type: textarea

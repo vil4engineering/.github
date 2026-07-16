@@ -2,7 +2,7 @@
 
 ## Supported projects
 
-Report security issues for repositories under [Engineering-University](https://github.com/Engineering-University).
+Report security issues for repositories under [vil4engineering](https://github.com/vil4engineering).
 
 ## How to report
 

@@ -10,7 +10,7 @@ We build a learning environment where two generations can grow as engineers — 
 - Prefer evidence over ego.
 - Credit sources and collaborators.
 - Teach when you learn something useful.
-- Separate private career material from public university material.
+- Separate private career material from public curriculum / org material.
 
 ## Unacceptable behavior
 

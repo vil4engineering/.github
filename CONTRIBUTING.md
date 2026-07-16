@@ -1,6 +1,8 @@
 # Contributing
 
-Engineering University is a long-term engineering initiative for two generations.
+**vil4engineering** is a long-term engineering organization for learning, building, and teaching across two generations.
+
+Curriculum and campus docs live in [`univer`](https://github.com/vil4engineering/univer).
 
 ## Before you open a PR
 
@@ -28,5 +30,5 @@ Work should help at least one of:
 ## Language
 
 - Public product / org README: English is fine.
-- Campus curriculum prose: Russian primary + English technical terms (see site `campus/LANGUAGE.md`).
+- Curriculum prose in `univer`: Russian primary + English technical terms (see [`campus/LANGUAGE.md`](https://github.com/vil4engineering/univer/blob/main/campus/LANGUAGE.md)).
 - Code identifiers and API names: English as-is.
