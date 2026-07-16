@@ -1,0 +1,31 @@
+name: Bug
+description: Something broken in a university repo or lab
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      placeholder: Engineering-University.github.io / pitstop-ios / regional-check
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction
+      placeholder: Steps, OS, Xcode, device
+    validations:
+      required: true

@@ -1,0 +1,17 @@
+name: Documentation
+description: Docs, campus pages, or missing Evidence write-up
+title: "docs: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: gap
+    attributes:
+      label: Gap
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+    validations:
+      required: true

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/orgs/Engineering-University/discussions
+    about: Questions, ideas, labs, book club, WWDC, AI, career craft, teaching.
+  - name: Campus site
+    url: https://engineering-university.github.io/
+    about: Curriculum, paths, and university documentation portal.

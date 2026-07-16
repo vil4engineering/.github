@@ -1,0 +1,36 @@
+name: Idea
+description: Proposal for curriculum, lab, tooling, or org product
+title: "idea: "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Curriculum
+        - Lab
+        - AI
+        - Career
+        - Teaching
+        - Tooling / CI
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / prior art
+      placeholder: Links, labs, articles
