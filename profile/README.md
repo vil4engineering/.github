@@ -40,10 +40,16 @@ Every repository should contribute to one or more of these goals:
 - becoming a better engineer;
 - helping the next generation become one.
 
+## Links
+
 | | |
 |--|--|
 | **Site** | [engineering-university.github.io](https://engineering-university.github.io/) |
 | **Campus** | [Enter Campus](https://engineering-university.github.io/#/campus/) |
+| **Curriculum product plan** | [ORG_PRODUCT](https://engineering-university.github.io/#/campus/ORG_PRODUCT) |
+| **Discussions** | [Ask / Ideas / Labs](https://github.com/Engineering-University/Engineering-University.github.io/discussions) |
+| **Project board** | [Engineering University](https://github.com/orgs/Engineering-University/projects/1) |
 | **Charter** | [01_CHARTER](https://engineering-university.github.io/#/01_CHARTER) |
+| **Contributing** | [CONTRIBUTING.md](https://github.com/Engineering-University/.github/blob/main/CONTRIBUTING.md) |
 
 Public university materials only. Private career OS stays separate.
