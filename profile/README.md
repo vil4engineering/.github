@@ -1,6 +1,6 @@
-# vil4-engineering
+# vil4engineering
 
-**vil4-engineering** is a long-term engineering organization dedicated to learning, building, and teaching.
+**vil4engineering** is a long-term engineering organization dedicated to learning, building, and teaching.
 
 The organization was created with a simple mission:
 
