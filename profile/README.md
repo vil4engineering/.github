@@ -4,9 +4,41 @@
   <img src="engineering-university-logo.jpg" alt="Engineering University logo" width="192" height="192">
 </p>
 
-Building engineers, not collecting knowledge.
+Engineering University is a long-term engineering initiative created to help two generations become professional engineers.
 
-Living curriculum and campus OS for Software Engineering — with Mobile Systems as foundation faculty, and AI as both **tool** and **technology**.
+Its mission is not simply to collect notes or code, but to build a living engineering ecosystem where knowledge is learned, practiced, documented, and shared.
+
+The organization serves two audiences:
+
+- an experienced software engineer continuously growing toward software architecture, AI engineering, and technical leadership;
+- a future engineer learning from first principles through curiosity, experiments, and real projects.
+
+## Core Principles
+
+- Learn from first principles.
+- Build real software.
+- Teach what you learn.
+- Prefer evidence over opinion.
+- Document knowledge so it can be reused.
+- Connect ideas instead of collecting isolated facts.
+- Practice before theory.
+- Continuously improve engineering craftsmanship.
+
+## Areas
+
+- Computer Science
+- Software Engineering
+- Swift & Apple Platforms
+- Artificial Intelligence
+- Software Architecture
+- Mathematics
+- Engineering Labs
+- Career Development
+
+Every repository should contribute to one or more of these goals:
+
+- becoming a better engineer;
+- helping the next generation become one.
 
 | | |
 |--|--|
